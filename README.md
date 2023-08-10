@@ -119,8 +119,13 @@ https://gitee.com/gz-yami/mall4cloud
 ## 更多信息请查看官网 <https://www.mall4j.com>
 ## 安装环境
 VS Code：https://code.visualstudio.com/
+
 Node.js：https://nodejs.cn/
+
 python：https://python.p2hp.com/downloads/
+
 MySQL：https://dev.mysql.com/downloads/mysql/
+
 JDK：https://www.oracle.com/cn/java/technologies/downloads/#jdk17-windows
+
 Redis：https://redis.io/download/
